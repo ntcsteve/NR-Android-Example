@@ -14,9 +14,9 @@ The New Relic Mobile product is part of your iOS or Android app and lives within
 
 The Mobile SDK agent injects code into certain method calls within your application in order to collect performance data. This allows us to time and monitor the inputs and outputs of various APIs.
 
-By default, New Relic Mobile collects many important performance Interactions, Breadcrumbs and Events from your mobile app.
+**By default, New Relic Mobile collects automatically many important performance Interactions, Breadcrumbs and Events from your mobile app.**
 
-This code example is great if you like to learn more about setting up custom instrumentation to measure specific items in your mobile app using SDK APIs.
+This Android example is great if you like to learn more about setting up custom instrumentation to measure specific items in your mobile app.
 
 Instructions:
 
@@ -30,7 +30,7 @@ Instructions:
 
 4. Once you insert your Mobile application token, just scroll down and you should see a few comments in MainActivity.kt with some examples.
 
-5. Please play around with the Android sample app to gain a better understanding in using the Android SDK API.
+5. Build the mobile app in your Android Studio with an emulator. You can play around with the Android sample app to gain a better understanding in using the Android SDK API.
 
 Reference Links:
 
