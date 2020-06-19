@@ -30,7 +30,7 @@ The implementation and dependencies are configured nicely in Gradle. You can see
 
 Instructions:
 
-1. Go to NR-Android-Example/app/src/main/java/com/example/hands_onlab/
+1. Go to NR-Android-Example/app/src/main/java/com/example/hands_onlab/MainActivity.kt
 
 2. Look for NewRelic.withApplicationToken(
    "REPLACE THIS WITH YOUR NEW RELIC MOBILE LICENSE KEY"
@@ -43,6 +43,8 @@ Instructions:
 5. Build the mobile app in your Android Studio with an emulator. You can play around with the Android sample app to gain a better understanding in using the Android SDK API.
 
 Reference Links:
+
+-   [Quick Link in Github](https://github.com/ntcsteve/NR-Android-Example/blob/master/app/src/main/java/com/example/hands_onlab/MainActivity.kt)
 
 -   [Android Studio Download](https://developer.android.com/studio/)
 
